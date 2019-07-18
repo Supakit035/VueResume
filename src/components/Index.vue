@@ -41,6 +41,12 @@
               <template slot="tab-pane-1">
                 <timeline></timeline>
               </template>
+              <template slot="tab-pane-2">
+                <!-- <timeline></timeline> -->
+              </template>
+              <template slot="tab-pane-3">
+                <!-- <timeline></timeline> -->
+              </template>
             </tabs>
           </div>
         </div>
